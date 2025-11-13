@@ -10,6 +10,6 @@ v2 = [float(input()) for _ in range(n)]
 
 dot_product = sum(v1[i] * v2[i] for i in range(n))
 
-print("Dot product:", dot_product)
+print("Dot product is :", dot_product)
 
 
